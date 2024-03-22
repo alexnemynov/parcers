@@ -1,0 +1,6 @@
+.env
+*.json
+*.session
+*.txt
+*.csv
+*.xml

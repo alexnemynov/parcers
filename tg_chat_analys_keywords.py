@@ -7,8 +7,7 @@ from dotenv import load_dotenv
 from pyrogram import Client
 
 load_dotenv()
-api_id = int(os.environ.get("api_id"))
-api_hash = os.environ.get("api_hash")
+api_id = int(os.environ.get("api_id"))api_hash = os.environ.get("api_hash")
 
 
 # Список чатов и ключевых слов
